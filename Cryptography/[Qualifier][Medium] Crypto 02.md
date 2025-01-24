@@ -8,6 +8,8 @@
 
 แต่ทุกตัวอักษรมี # คั่นไว้หมดเลยเอาพวกนังออกไปซะ และจากการเอาไปเข้า cipher identifier จะได้ออกมาเป็น Base62 encoding
 
+![image](https://github.com/user-attachments/assets/faf09fe2-8f93-46e0-b9a0-1aed8be3850a)
+
 ยังจะมีซ้อนอีกชั้น ซึ่งดูออกเลยว่า Caesar Cipher ของแทร่แน่นอน ก็จัดไปเลยจ้า หมุน shift ไปเรื่อยๆ จนกระทั่ง flag ออกที่ shift 13 (หรือจริงๆ เอาเข้า CyberChef แล้วถอดด้วย ROT13 ก็เป็นอันจบ)
 
 ![image](https://github.com/user-attachments/assets/ea54d966-d6db-4212-9d86-fb43d9e3cbdc)
