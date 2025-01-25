@@ -16,3 +16,7 @@ Random writeups from Women Thailand Cyber Top Talent 2024
 - [Qualifier][Easy] Mystery Box
 - [Qualifier][Medium] XSS Marionette
 - [Qualifier][Hard] Detective Web Defender
+
+### Digital Forensics
+- [Qualifier][Easy] Secret Search History
+- [Qualifier][Easy] Shortcut Backdoor
