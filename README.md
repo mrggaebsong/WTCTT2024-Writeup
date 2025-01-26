@@ -28,3 +28,5 @@ Random writeups from Women Thailand Cyber Top Talent 2024
 ### Mobile
 - [Qualifier][Easy] Mobile 01
 - [Qualifier][Easy] Mobile 02
+- [Final][Easy] Fun with Flags
+- [Final][Medium] IIIsum
