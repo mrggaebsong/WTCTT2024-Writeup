@@ -21,6 +21,9 @@ Random writeups from Women Thailand Cyber Top Talent 2024
 ### Digital Forensics
 - [Qualifier][Easy] Secret Search History
 - [Qualifier][Easy] Shortcut Backdoor
+- [Final][Easy] My Homework
+- [Final][Easy] VZMOM Pt.1
+- [Final][Medium] VZMOM Pt.2
 
 ### Reverse Engineering & Pwnable
 - [Qualifier][Easy] RE 01
