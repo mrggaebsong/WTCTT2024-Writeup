@@ -6,6 +6,7 @@ Random writeups from Women Thailand Cyber Top Talent 2024
 - [Qualifier][Easy] Crypto 01
 - [Qualifier][Medium] Crypto 02
 - [Qualifier][Hard] Crypto 03
+- [Final][Easy] Emoji Love
 
 ### Programming
 - [Qualifier][Easy] Programming 01
@@ -17,6 +18,8 @@ Random writeups from Women Thailand Cyber Top Talent 2024
 - [Qualifier][Easy] Mystery Box
 - [Qualifier][Medium] XSS Marionette
 - [Qualifier][Hard] Detective Web Defender
+- [Final][Easy] Headache
+- [Final][Easy] Say it to me
 
 ### Digital Forensics
 - [Qualifier][Easy] Secret Search History
