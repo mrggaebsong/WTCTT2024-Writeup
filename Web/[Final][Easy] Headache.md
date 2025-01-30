@@ -1,3 +1,10 @@
+> เข้าเว็บนี้ทีไร ปวดหัวทุกที
+>
+> https://headache.sspk.xyz 
+>
+> หมายเหตุ รูปแบบของ Flag ที่เป็นคำตอบของข้อนี้คือ flag{…}
+>
+
 เปิดหน้าเว็บขึ้นมา จะโดน redirect ไปที่เว็บ WTCTT 2024 ลองไปดู Burp จะพบว่ามัน spawn งอกเว็บอื่นๆ ออกมาเยอะแยะมาก
 
 ![image](https://github.com/user-attachments/assets/951a2b60-0a7c-4ebb-82e0-f93ad4f3f4a9)
