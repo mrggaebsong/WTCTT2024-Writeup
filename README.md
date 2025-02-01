@@ -19,14 +19,17 @@ Random writeups from Women Thailand Cyber Top Talent 2024
 - [Qualifier][Medium] XSS Marionette
 - [Qualifier][Hard] Detective Web Defender
 - [Final][Easy] Headache
-- [Final][Easy] Say it to me
+- [Final][Easy] Say with me
+- [Final][Medium] Comparing
+- [Final][Hard] Walkthrough
 
 ### Digital Forensics
 - [Qualifier][Easy] Secret Search History
 - [Qualifier][Easy] Shortcut Backdoor
 - [Final][Easy] My Homework
-- [Final][Easy] VZMOM Pt.1
-- [Final][Medium] VZMOM Pt.2
+- [Final][Easy] MOMZV Pt.1
+- [Final][Medium] MOMZV Pt.2
+- [Final][Hard] MOMZV Pt.3
 
 ### Reverse Engineering & Pwnable
 - [Qualifier][Easy] RE 01
